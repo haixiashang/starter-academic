@@ -45,7 +45,7 @@ social:
   link: https://www.researchgate.net/profile/Haixia_Shang2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/haixiashang
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/haixia-shang-9b2b011b9/
