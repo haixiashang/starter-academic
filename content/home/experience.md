@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Competation Experience
 subtitle:
 
 # Date format for experience
@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 2018 Chinese graduate student in mathematical modeling
+    company: Quantitative analysis of recorded terrorist attacks
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Jinan
+    date_start: '2018-09'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing data
+        * Programming in R
+        * Drafting the report
         
   - title: Professor
     company: University X
