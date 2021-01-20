@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Competations
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
@@ -13,18 +13,14 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+## Competation 1
 
----
+- 2018 Chinese graduate student in mathematical modeling
+- participants: Haixia Shang, Lihua Wang, Dezhen Zhang
+- Title: Quantitative analysis of recorded terrorist attacks
+- My responsibilities include: Analyzing data with programing in R and drafting the report
 
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
 
 ---
 
