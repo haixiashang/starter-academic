@@ -32,7 +32,7 @@ experience:
         * Programing in R
         * Drafting the report
         
-  - title: 2017 Chinese graduate student in mathematical modeling
+   - title: 2017 Chinese graduate student in mathematical modeling
     company: Video surveillance is extracted from foreground target based on surveillance video
     date_start: '2017-12-01'
     description: |2-
