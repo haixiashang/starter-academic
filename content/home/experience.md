@@ -48,7 +48,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Processing image data
+        * Processing data
         * Programing in msp430 single-chip
         * Drafting the report
         
