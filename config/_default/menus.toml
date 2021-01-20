@@ -14,12 +14,6 @@
   weight = 30
 
 [[main]]
-  name = "Competations"
-  url = "#Competations"
-  weight = 30
-
-
-[[main]]
   name = "Publications"
   url = "#featured"
   weight = 50
