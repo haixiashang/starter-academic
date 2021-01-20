@@ -19,17 +19,17 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics analysis
 
 - description: 100%
   icon: r-project
   icon_pack: fab
-  name: 100%
+  name: R
 
 - description: 100%
   icon: python
   icon_pack: fab
-  name: 100%
+  name: Python
 
 #- description: 10%
 #  icon: camera-retro
