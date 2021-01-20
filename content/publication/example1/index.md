@@ -1,6 +1,6 @@
 ---
-title: "Network-based prioritization of cancer genes by integrative
-ranks frommulti-omics data"
+title: " Prioritizing type 2 diabetes genes by weighted PageRank on
+bilayer heterogeneous networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,11 +14,11 @@ author_notes:
 - "First author"
 - "Corresponding author"
 
-date: "2020-04"
+date: "2019-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020"
+publishDate: "2019"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +27,8 @@ publishDate: "2020"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computers in Biology and Medicine*
-publication_short: In *CBM*
+publication: In *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
+publication_short: In *TCBB*
 
 abstract: 
 
