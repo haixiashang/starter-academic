@@ -1,9 +1,10 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: 2015 Shandong Internet of Things Creativity Competition
+summary: Pulse detector based on Bluetooth wireless transmission.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- participants: Haixia Shang, Wenjing Hu, Baiyang Hu, Chuan Geng
+- My responsibilities include: Processing image data with programing in msp430 single-chip and drafting the report
+date: "2015"
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://example.org

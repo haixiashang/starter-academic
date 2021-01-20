@@ -31,6 +31,11 @@ feature:
   icon_pack: fab
   name: Python
 
+- description: 100%
+  icon: microsoft
+  icon_pack: fab
+  name: Office
+
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
