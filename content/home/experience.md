@@ -44,19 +44,19 @@ experience:
         
         * Programing in matlab
         * Image process
-  - title: 2015 Shandong Province Internet of Things Competition
-    company: Smartphone-based heart rate detection
-    #company_url: ''
-    #location: California
-    #date_start: '2015-01-01'
-    #date_end: '2015-12-31'
-    description: |2-
-	    Details:
-	(1)Use the photocrysin rate detector to detect finger pulse rate
-	(2)Use Bluetooth propagation to msp430 single-chip machine for data processing to get the heart rate
-	(3)Use the LCD display to show the heart rate
-	description: |2-
-        Responsibilities include:
-        * Circuit design
-        * Single-chip programming
+#  - title: 2015 Shandong Province Internet of Things Competition
+#    company: Smartphone-based heart rate detection
+#    #company_url: ''
+#    #location: California
+#   #date_start: '2015-01-01'
+#    #date_end: '2015-12-31'
+#    #description: |2-
+#	    Details:
+#	(1)Use the photocrysin rate detector to detect finger pulse rate
+#	(2)Use Bluetooth propagation to msp430 single-chip machine for data processing to get the heart rate
+#	(3)Use the LCD display to show the heart rate
+#	description: |2-
+#        Responsibilities include:
+#        * Circuit design
+#        * Single-chip programming
 ---
