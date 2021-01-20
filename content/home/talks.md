@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks'
 subtitle:
 
 content:
@@ -19,9 +19,9 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    author: "Haixia Shang"
+    category: "Performance evaluation for the sliding area-based T wave detection method on the QT database"
+    tag: "Oral"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
