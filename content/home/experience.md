@@ -32,8 +32,7 @@ experience:
         Responsibilities include:
         
         * Programing in R
-        * Data analysis by using machine learning technique
-        
+        * Data analysis by using machine learning technique      
   - title: 2017 China Graduate Mathematical Modeling Participation Award
     company: Extract video surveillance based on the fore prospect target of surveillance video
     #company_url: ''
@@ -45,7 +44,6 @@ experience:
         
         * Programing in matlab
         * Image process
-		
   - title: 2015 Shandong Province Internet of Things Competition
     company: Smartphone-based heart rate detection
     #company_url: ''
