@@ -52,11 +52,11 @@ experience:
     #date_end: '2015-12-31'
     description: |2-
 	    Details:
-	(1)Use the photocrysin rate detector to detect finger pulse rate; 
-	(2)Use Bluetooth propagation to msp430 single-chip machine for data processing to get the heart rate;
-	(3)Use the LCD display to show the heart rate.
+	(1)Use the photocrysin rate detector to detect finger pulse rate
+	(2)Use Bluetooth propagation to msp430 single-chip machine for data processing to get the heart rate
+	(3)Use the LCD display to show the heart rate
 	description: |2-
         Responsibilities include:
-        * Circuit design 
+        * Circuit design
         * Single-chip programming
 ---
