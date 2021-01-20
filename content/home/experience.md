@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-   - title: 2018 Chinese graduate student in mathematical modeling
+  - title: 2018 Chinese graduate student in mathematical modeling
     company: Quantitative analysis of recorded terrorist attacks
     date_start: '2018-12-01'
     description: |2-
@@ -32,7 +32,7 @@ experience:
         * Programing in R
         * Drafting the report
         
-   - title: 2017 Chinese graduate student in mathematical modeling
+  - title: 2017 Chinese graduate student in mathematical modeling
     company: Video surveillance is extracted from foreground target based on surveillance video
     date_start: '2017-12-01'
     description: |2-
@@ -42,7 +42,7 @@ experience:
         * Programing in matlab
         * Drafting the report
         
-   - title: 2015 Shandong Internet of Things Creativity Competition
+  - title: 2015 Shandong Internet of Things Creativity Competition
     company: Pulse detector based on Bluetooth wireless transmission
     date_start: '2015-12-01'
     description: |2-
