@@ -21,6 +21,16 @@ feature:
   icon_pack: fas
   name: Statistics
 
+- description: 100%
+  icon: r-project
+  icon_pack: fab
+  name: 100%
+
+- description: 100%
+  icon: python
+  icon_pack: fab
+  name: 100%
+
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
